@@ -25,4 +25,4 @@ function BFS(graph, targetVertix) {
   return false;
 }
 
-console.log(BFS(graph, 'p'));
+console.log(BFS(graph, 'c'));
